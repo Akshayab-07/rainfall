@@ -1,0 +1,1 @@
+export default function ProbabilityBars() { return <div>ProbabilityBars</div>; }

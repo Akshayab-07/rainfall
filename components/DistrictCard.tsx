@@ -1,0 +1,1 @@
+export default function DistrictCard() { return <div>DistrictCard</div>; }

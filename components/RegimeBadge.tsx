@@ -1,0 +1,1 @@
+export default function RegimeBadge() { return <div>RegimeBadge</div>; }

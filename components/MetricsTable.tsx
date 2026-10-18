@@ -1,0 +1,1 @@
+export default function MetricsTable() { return <div>MetricsTable</div>; }
